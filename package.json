@@ -1,0 +1,19 @@
+{
+  "name": "josue_calculator",
+  "version": "1.0.0",
+  "description": "this is a calculator package with restful APIs  you can use in your nodejs app to simplyfy your work by putting a list of numbers separated by comma and make opration you want",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "about"
+  ],
+  "author": "FADHILI-josue",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
